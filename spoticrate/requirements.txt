@@ -1,0 +1,7 @@
+# spotipy
+# npython-dotenv
+# nmutagen
+# npydub
+# ntqdm
+# nffmpeg-python
+# nrequests
